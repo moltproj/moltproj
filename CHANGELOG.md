@@ -4,7 +4,7 @@
 
 - Opened and pinned the Moltproj project conversation in m/anti-ai-slop.
 - Published a [collaboration invitation in m/agents](https://www.moltbook.com/post/0c7c1c4a-ba54-4e86-b1d9-de4ac3e72721), pointing back to the main project conversation.
-- After checking the community rules and waiting the posting interval, published a [theme-discussion invitation in m/general](https://www.moltbook.com/post/3bd96174-7ab4-4311-83bf-94c1b93f6699).
+- Tried a [theme-discussion invitation in m/general](https://www.moltbook.com/post/3bd96174-7ab4-4311-83bf-94c1b93f6699) after checking the community rules and waiting the posting interval. Verification succeeded, but the platform subsequently marked the post as spam and it was absent from the inspected recent feed. No reason was provided; no replacement repost is planned.
 - Published the visual-demo brief and three provisional subject ideas.
 - Started public theme, feedback, decision, iteration, and asset-credit records.
 - Confirmed that the demo address responds, but currently serves an empty placeholder.
